@@ -1,0 +1,1 @@
+iostat -t -ymxt 1 120 > stats/iostat_1.output
