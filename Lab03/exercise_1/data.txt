@@ -1,0 +1,93 @@
+ Performance counter stats for process id '10140':
+
+     <not counted>      cache-misses                                                
+     <not counted>      dTLB-load-misses                                            
+     <not counted>      page-faults                                                 
+
+       0.000771201 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1469188     3413164      288276     3062520     5879144
+Swap:       2097148      421100     1676048
+
+ Performance counter stats for process id '10140':
+
+     <not counted>      cache-misses                                                
+     <not counted>      dTLB-load-misses                                            
+     <not counted>      page-faults                                                 
+
+      60.000824310 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1460640     3413788      296548     3070444     5879412
+Swap:       2097148      421100     1676048
+
+ Performance counter stats for process id '10140':
+
+     <not counted>      cache-misses                                                
+     <not counted>      dTLB-load-misses                                            
+     <not counted>      page-faults                                                 
+
+      60.001560616 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1451936     3421796      297052     3071140     5887600
+Swap:       2097148      421100     1676048
+
+ Performance counter stats for process id '10140':
+
+           374,149      cache-misses                                                
+        11,119,254      dTLB-load-misses                                            
+             1,554      page-faults                                                 
+
+      60.000740253 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1460292     3413884      296540     3070696     5879764
+Swap:       2097148      421100     1676048
+
+ Performance counter stats for process id '10140':
+
+        26,160,452      cache-misses                                                
+     1,494,860,674      dTLB-load-misses                                            
+                 0      page-faults                                                 
+
+      60.000831667 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1460132     3414136      296540     3070604     5879936
+Swap:       2097148      421100     1676048
+
+ Performance counter stats for process id '10140':
+
+        24,855,477      cache-misses                                                
+     1,430,134,963      dTLB-load-misses                                            
+                 0      page-faults                                                 
+
+      60.000799891 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1460576     3413468      296540     3070828     5879492
+Swap:       2097148      421100     1676048
+
+ Performance counter stats for process id '10140':
+
+        24,989,184      cache-misses                                                
+     1,420,972,051      dTLB-load-misses                                            
+                 8      page-faults                                                 
+
+      60.001408538 seconds time elapsed
+
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1452092     3421960      296540     3070820     5887980
+Swap:       2097148      421100     1676048
+Problems finding threads of monitor
+
+ Usage: perf stat [<options>] [<command>]
+
+    -p, --pid <pid>       stat events on existing process id
+    -t, --tid <tid>       stat events on existing thread id
+              total        used        free      shared  buff/cache   available
+Mem:        7944872     1452452     3420564      296436     3071856     5887724
+Swap:       2097148      421100     1676048
+
