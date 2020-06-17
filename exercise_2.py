@@ -92,7 +92,16 @@ def test_random_write_variable_size():
         now = datetime.now()
 
 
-test_random_write()
-print ("Done!")
-
+test_random_read()
+print ("Done 1!")
+#test_random_write()
+#print ("Done 2!")
+#test_seq_read()
+#print ("Done 3!")
+#test_seq_write()
+#print ("Done 4!")
+#test_random_read_variable_size()
+#print ("Done 5!")
+#test_random_write_variable_size()
+#print ("Done all!")
 f.close()

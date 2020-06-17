@@ -1,0 +1,842 @@
+Linux 5.4.0-37-generic (rubaldo) 	06/16/2020 	_x86_64_	(4 CPU)
+
+06/16/2020 12:34:39 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.68    0.00   21.29    4.21    0.00   67.82
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   220.00    5.00  119.00     0.02     9.26   153.29     0.83    7.59   16.20    7.23   1.55  19.20
+
+06/16/2020 12:34:40 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.64    0.00   14.71   31.86    0.00   47.79
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     6.00    1.00  137.00     0.00    75.77  1124.52     6.33   47.75  132.00   47.13   3.68  50.80
+
+06/16/2020 12:34:41 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.52    0.00    2.79   38.32    0.00   57.36
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  139.00     0.00    72.35  1066.01     1.06    8.96    0.00    8.96   4.12  57.20
+
+06/16/2020 12:34:42 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.01    0.00    9.82   36.52    0.00   52.64
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    74.00    1.00  145.00     0.00    67.80   951.18     3.45   25.16 2053.00   11.18   3.29  48.00
+
+06/16/2020 12:34:43 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.02    0.00   13.35   42.82    0.00   40.81
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    97.00    1.00  134.00     0.00    65.08   987.38    14.13  106.79   33.00  107.34   2.99  40.40
+
+06/16/2020 12:34:44 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.80    0.00   11.14   36.20    0.00   48.86
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    35.00    1.00  130.00     0.00    79.57  1244.03    17.37  134.74  207.00  134.18   3.82  50.00
+
+06/16/2020 12:34:45 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.78    0.00    6.20   35.14    0.00   57.88
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00  123.00     0.00    80.32  1337.30    16.55  136.77    0.00  136.77   3.93  48.40
+
+06/16/2020 12:34:46 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.42    0.00   12.71   37.16    0.00   46.70
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     9.00    1.00  151.00     0.00    78.11  1052.42    12.68   85.53  382.00   83.56   3.97  60.40
+
+06/16/2020 12:34:47 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.53    0.00    4.59   42.35    0.00   51.53
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     4.00    0.00  126.00     0.00    77.95  1266.92    15.48  124.91    0.00  124.91   4.03  50.80
+
+06/16/2020 12:34:48 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.35    0.00    6.65   43.73    0.00   45.27
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00   68.00     0.00    65.59  1975.29    16.15  239.41    0.00  239.41   4.24  28.80
+
+06/16/2020 12:34:49 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.22    0.00   11.66   34.49    0.00   49.63
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    1.00  125.00     0.00    78.58  1277.27    15.36  123.84  219.00  123.08   3.81  48.00
+
+06/16/2020 12:34:50 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.77    0.00    9.37   42.78    0.00   46.08
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    10.00    9.00   91.00     0.18    69.62  1429.44    17.44  176.65  312.11  163.25   3.76  37.60
+
+06/16/2020 12:34:51 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.68    0.00   12.01   33.09    0.00   51.23
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    1.00   79.00     0.00    78.89  2019.80    11.37  144.10  327.00  141.78   4.35  34.80
+
+06/16/2020 12:34:52 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.82    0.00    4.16   43.38    0.00   50.65
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    13.00    0.00   80.00     0.00    77.73  1990.00    16.84  212.28    0.00  212.28   4.25  34.00
+
+06/16/2020 12:34:53 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.30    0.00    7.42   41.18    0.00   49.10
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  102.00     0.00    69.12  1387.84    17.09  169.60    0.00  169.60   3.80  38.80
+
+06/16/2020 12:34:54 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.05    0.00    9.64   42.13    0.00   45.18
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    63.00    1.00  132.00     0.00    79.20  1219.61    15.35  117.72  230.00  116.87   3.31  44.00
+
+06/16/2020 12:34:55 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.87    0.00    3.39   44.39    0.00   49.35
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  143.00     0.00    79.82  1143.10    16.14  114.78    0.00  114.78   4.11  58.80
+
+06/16/2020 12:34:56 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.29    0.00    3.88   37.21    0.00   57.62
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00  122.00     0.00    80.51  1351.48    14.30  119.25    0.00  119.25   4.03  49.20
+
+06/16/2020 12:34:57 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.23    0.00   12.41   38.46    0.00   45.91
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    1.00   98.00     0.00    71.82  1485.90    10.95  112.60  486.00  108.79   4.28  42.40
+
+06/16/2020 12:34:58 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00    7.91   47.70    0.00   42.35
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    26.00    0.00   95.00     0.00    63.23  1363.03    16.85  179.39    0.00  179.39   3.87  36.80
+
+06/16/2020 12:34:59 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.78    0.00    6.09   39.85    0.00   52.28
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    11.00    1.00  139.00     0.00    70.35  1029.14    10.38   76.03  787.00   70.91   3.83  53.60
+
+06/16/2020 12:35:00 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.11    0.00    6.22   39.64    0.00   51.04
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00  138.00     0.00    78.65  1167.19    13.55  100.00    0.00  100.00   4.17  57.60
+
+06/16/2020 12:35:01 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.33    0.00    2.92   38.73    0.00   57.03
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  114.00     0.00    71.01  1275.65    16.09  143.04    0.00  143.04   3.96  45.20
+
+06/16/2020 12:35:02 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00    7.14   55.10    0.00   35.71
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3             62.00    13.00   10.00  115.00     0.27    60.19   990.53    13.74  112.02  285.00   96.98   3.74  46.80
+
+06/16/2020 12:35:03 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.32    0.00    9.95   47.45    0.00   39.29
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    29.00    9.00  127.00     0.25    61.30   926.88     4.64   36.49  111.56   31.17   3.44  46.80
+
+06/16/2020 12:35:04 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00    9.16   48.09    0.00   40.71
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    16.00    7.00  158.00     0.11    69.88   868.70     1.68   12.58  132.71    7.26   3.52  58.00
+
+06/16/2020 12:35:05 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.21    0.00    9.90   44.06    0.00   41.83
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    5.00   90.00     0.11    74.00  1597.56     2.35   26.81  291.00   12.13   4.04  38.40
+
+06/16/2020 12:35:06 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.36    0.00    7.65   39.80    0.00   47.19
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    1.00   79.00     0.00    77.20  1976.40     1.72   23.65  834.00   13.39   4.05  32.40
+
+06/16/2020 12:35:07 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.52    0.00    3.55   48.73    0.00   46.19
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    29.00    1.00  124.00     0.00    75.42  1235.71     1.73   15.43  949.00    7.90   3.94  49.20
+
+06/16/2020 12:35:08 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.81    0.00    6.20   62.53    0.00   29.46
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     5.00   12.00   97.00     0.06    56.81  1068.55    12.44  116.15  271.67   96.91   3.71  40.40
+
+06/16/2020 12:35:09 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.09    0.00    3.66   54.57    0.00   39.69
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00   10.00   77.00     0.45    71.30  1689.10     4.44   52.89  336.60   16.04   3.45  30.00
+
+06/16/2020 12:35:10 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.55    0.00    8.16   59.18    0.00   30.10
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    3.00  101.00     0.09    77.15  1521.00     3.53   35.56  904.33    9.75   3.92  40.80
+
+06/16/2020 12:35:11 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.31    0.00    4.63   58.35    0.00   34.70
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    17.00    7.00   79.00     0.23    64.42  1539.53     4.63   55.78  527.14   14.01   3.72  32.00
+
+06/16/2020 12:35:12 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.10    0.00    3.15   45.41    0.00   49.34
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    9.00  137.00     0.33    67.62   953.26     9.44   66.65  172.78   59.68   3.40  49.60
+
+06/16/2020 12:35:13 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.01    0.00   11.78   38.60    0.00   46.62
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    17.00    5.00  144.00     0.25    69.23   954.90     1.83   13.95  161.20    8.84   3.33  49.60
+
+06/16/2020 12:35:14 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.90    0.00   16.67   50.49    0.00   27.94
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    40.00    5.00  115.00     0.12    68.59  1172.67     3.48   30.54  521.00    9.22   3.53  42.40
+
+06/16/2020 12:35:15 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.46    0.00   14.07   47.16    0.00   35.31
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    22.00   16.00   93.00     0.45    54.54  1033.17     4.23   40.43  200.94   12.82   3.56  38.80
+
+06/16/2020 12:35:16 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00    8.16   72.19    0.00   17.60
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    71.00   12.00  101.00     0.66    53.32   978.34     2.90   27.08  156.08   11.75   3.33  37.60
+
+06/16/2020 12:35:17 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.11    0.00    4.92   56.48    0.00   35.49
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     8.00    6.00  114.00     0.19    65.27  1117.13     7.87   67.40  123.67   64.44   3.63  43.60
+
+06/16/2020 12:35:18 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.12    0.00    7.47   49.23    0.00   39.18
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    11.00    4.00  108.00     0.08    72.09  1319.64     5.12   47.09 1040.25   10.31   3.68  41.20
+
+06/16/2020 12:35:19 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.31    0.00    5.64   71.28    0.00   20.77
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    44.00   13.00  114.00     0.31    54.67   886.61     3.97   32.63  223.92   10.82   2.99  38.00
+
+06/16/2020 12:35:20 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.53    0.00    5.36   58.16    0.00   34.95
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    2.00  112.00     0.25    72.02  1298.32     1.61   15.66  386.00    9.04   3.79  43.20
+
+06/16/2020 12:35:21 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.78    0.00    5.85   62.85    0.00   29.52
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    20.00    6.00  103.00     0.34    68.13  1286.53     6.18   58.45  839.83   12.93   3.74  40.80
+
+06/16/2020 12:35:22 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.98    0.00   10.95   61.94    0.00   23.13
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    32.00   23.00   75.00     1.16    45.39   972.82    14.02  145.00  210.35  124.96   3.39  33.20
+
+06/16/2020 12:35:23 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.06    0.00    4.88   73.78    0.00   19.28
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     3.00   12.00  104.00     0.43    69.32  1231.52     7.56   67.24  544.75   12.14   3.24  37.60
+
+06/16/2020 12:35:24 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.29    0.00    7.34   68.61    0.00   20.76
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     4.00    7.00   94.00     0.32    76.60  1559.84     5.49   56.35  648.71   12.23   3.72  37.60
+
+06/16/2020 12:35:25 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.02    0.00    9.09   63.89    0.00   25.00
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     4.00   14.00  117.00     0.55    66.40  1046.72     5.72   45.36  353.43    8.50   2.87  37.60
+
+06/16/2020 12:35:26 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.79    0.00    9.69   40.82    0.00   47.70
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     7.00    0.00  161.00     0.00    76.83   977.29    13.88   88.09    0.00   88.09   3.55  57.20
+
+06/16/2020 12:35:27 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.80    0.00    9.16   41.73    0.00   46.31
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    41.00    1.00   85.00     0.00    55.41  1319.72    15.94  187.09  210.00  186.82   3.81  32.80
+
+06/16/2020 12:35:28 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.56    0.00    6.91   39.90    0.00   50.64
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    50.00    1.00  116.00     0.00    75.35  1318.97    13.37  116.40  308.00  114.75   3.18  37.20
+
+06/16/2020 12:35:29 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.78    0.00    8.40   39.69    0.00   50.13
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    35.00    0.00  123.00     0.00    79.62  1325.66    17.26  142.37    0.00  142.37   4.20  51.60
+
+06/16/2020 12:35:30 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.46    0.00   13.58   33.58    0.00   49.38
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    48.00    1.00  178.00     0.00    79.48   909.41    18.97  107.88  154.00  107.62   3.58  64.00
+
+06/16/2020 12:35:31 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.56    0.00    7.55   63.28    0.00   27.60
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   148.00    9.00  127.00     0.16    65.63   990.76    14.25  106.40  254.22   95.93   3.15  42.80
+
+06/16/2020 12:35:32 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.55    0.00    4.12   52.32    0.00   42.01
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    11.00   14.00  100.00     0.60    60.20  1092.35     6.54   59.05  226.50   35.61   3.61  41.20
+
+06/16/2020 12:35:33 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.05    0.00    9.39   57.87    0.00   29.70
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     3.00   19.00   83.00     0.38    68.85  1390.12     3.84   39.34  149.79   14.06   3.06  31.20
+
+06/16/2020 12:35:34 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.30    0.00    6.75   64.42    0.00   27.53
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    54.00    7.00   96.00     0.32    69.50  1388.19     3.44   35.33  136.71   27.94   3.73  38.40
+
+06/16/2020 12:35:35 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           9.92    0.00   11.20   57.76    0.00   21.12
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              1.00    30.00    0.00  144.00     0.00    72.29  1028.11     0.82    6.99    0.00    6.99   3.89  56.00
+
+06/16/2020 12:35:36 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          12.75    0.00   13.50   58.25    0.00   15.50
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    50.00   13.00   81.00     0.35    53.65  1176.60    11.48  123.50  809.92   13.33   3.96  37.20
+
+06/16/2020 12:35:37 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.05    0.00    2.09   70.16    0.00   26.70
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              1.00    46.00    6.00   92.00     0.34    66.29  1392.41     9.92  103.15  133.00  101.21   3.55  34.80
+
+06/16/2020 12:35:38 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.28    0.00    7.61   45.18    0.00   44.92
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    40.00    1.00  100.00     0.06    72.04  1462.10     1.93   20.61 1030.00   10.52   3.64  36.80
+
+06/16/2020 12:35:39 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.99    0.00    3.74   56.61    0.00   36.66
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  103.00     0.00    73.50  1461.51     0.84    9.70    0.00    9.70   4.00  41.20
+
+06/16/2020 12:35:40 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.79    0.00    5.38   51.28    0.00   41.54
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    71.00    2.00  120.00     0.07    72.05  1210.75     4.03   34.78 1553.00    9.47   3.54  43.20
+
+06/16/2020 12:35:41 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.05    0.00    6.91   58.57    0.00   32.48
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    66.00    0.00  108.00     0.00    74.69  1416.37     0.92   10.12    0.00   10.12   3.67  39.60
+
+06/16/2020 12:35:42 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.77    0.00    6.33   65.06    0.00   26.84
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   100.00   10.00  116.00     0.41    60.57   991.17     6.15   50.85  244.50   34.16   3.62  45.60
+
+06/16/2020 12:35:43 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.52    0.00    5.08   58.88    0.00   34.52
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00   11.00   98.00     0.30    75.66  1427.23     8.13   76.53  663.36   10.66   3.52  38.40
+
+06/16/2020 12:35:44 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.32    0.00   12.79   46.04    0.00   37.85
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   164.00   13.00  141.00     0.60    67.30   903.01     2.74   19.80  141.31    8.60   3.14  48.40
+
+06/16/2020 12:35:45 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.77    0.00    8.08   57.07    0.00   33.08
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    94.00   15.00  103.00     0.72    62.87  1103.66     3.25   29.62  117.13   16.87   3.59  42.40
+
+06/16/2020 12:35:46 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.19    0.00    9.34   40.79    0.00   46.68
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00   13.00   88.00     0.30    65.66  1337.43     4.06   42.09  226.92   14.78   3.72  37.60
+
+06/16/2020 12:35:47 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.75    0.00    7.50   52.75    0.00   38.00
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   106.00    8.00  117.00     0.17    68.40  1123.52     7.33   61.06  837.62    7.97   3.84  48.00
+
+06/16/2020 12:35:48 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.53    0.00   10.97   43.62    0.00   43.88
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   107.00    3.00  150.00     0.09    77.80  1042.56     2.47   17.84  246.67   13.27   3.84  58.80
+
+06/16/2020 12:35:49 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.28    0.00    9.60   41.92    0.00   45.20
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    85.00    7.00  138.00     0.09    77.50  1095.94     3.79   28.08  429.57    7.72   3.45  50.00
+
+06/16/2020 12:35:50 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.82    0.00    7.61   58.12    0.00   29.44
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     3.00   15.00   65.00     0.60    63.38  1637.80     3.32   43.85  145.80   20.32   3.80  30.40
+
+06/16/2020 12:35:51 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.08    0.00    3.64   66.75    0.00   27.53
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     3.00   12.00   70.00     0.64    63.47  1601.27     2.61   33.93   91.42   24.07   3.85  31.60
+
+06/16/2020 12:35:52 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.97    0.00   11.66   55.09    0.00   29.28
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    13.00   14.00  113.00     0.48    64.04  1040.38     3.33   27.69  180.50    8.76   3.69  46.80
+
+06/16/2020 12:35:53 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.76    0.00    7.56   60.45    0.00   30.23
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    2.00  130.00     0.25    76.52  1191.15     3.66   29.73   91.00   28.79   3.79  50.00
+
+06/16/2020 12:35:54 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.04    0.00    9.37   41.01    0.00   46.58
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    2.00  111.00     0.15    79.01  1434.62     2.07   20.27  617.00    9.52   4.11  46.40
+
+06/16/2020 12:35:55 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.28    0.00    6.91   51.92    0.00   39.90
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    2.00  123.00     0.25    79.63  1308.80     1.61   15.40  438.00    8.53   4.00  50.00
+
+06/16/2020 12:35:56 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.51    0.00    9.82   54.16    0.00   34.51
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    69.00    0.00  124.00     0.00    80.42  1328.19     0.81    8.52    0.00    8.52   3.61  44.80
+
+06/16/2020 12:35:57 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.47    0.00   12.66   49.13    0.00   34.74
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   147.00    3.00  132.00     0.10    77.40  1175.76    13.76  103.74 1069.67   81.79   3.70  50.00
+
+06/16/2020 12:35:58 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.01    0.00   10.55   47.49    0.00   39.95
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00   88.00     0.00    62.93  1464.64    15.57  179.00    0.00  179.00   3.86  34.00
+
+06/16/2020 12:35:59 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.52    0.00    4.30   42.28    0.00   51.90
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  108.00     0.00    80.72  1530.74     9.80   92.81    0.00   92.81   3.96  42.80
+
+06/16/2020 12:36:00 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.28    0.00    6.55   35.01    0.00   54.16
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    1.00   89.00     0.00    74.98  1706.40     3.43   39.84 1032.00   28.70   4.04  36.40
+
+06/16/2020 12:36:01 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.53    0.00    3.29   34.68    0.00   59.49
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  124.00     0.00    76.56  1264.52     0.81    8.01    0.00    8.01   4.06  50.40
+
+06/16/2020 12:36:02 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.01    0.00    9.52   36.59    0.00   51.88
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    50.00    1.00  165.00     0.00    69.80   861.16     6.45   40.58 2036.00   28.49   3.35  55.60
+
+06/16/2020 12:36:03 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.79    0.00    8.29   41.71    0.00   42.21
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              1.00    43.00    3.00   85.00     0.01    59.50  1384.91    12.38  142.95  317.00  136.81   3.68  32.40
+
+06/16/2020 12:36:04 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.63    0.00    5.12   32.23    0.00   57.03
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    2.00  110.00     0.01    71.14  1301.07    10.34   94.29   84.00   94.48   3.82  42.80
+
+06/16/2020 12:36:05 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.99    0.00    8.23   39.90    0.00   47.88
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00   94.00     0.00    73.08  1592.17    15.55  167.36    0.00  167.36   4.30  40.40
+
+06/16/2020 12:36:06 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.78    0.00    2.79   34.01    0.00   61.42
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00   89.00     0.00    76.78  1766.83     3.14   37.01    0.00   37.01   4.00  35.60
+
+06/16/2020 12:36:07 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.03    0.00    7.09   37.22    0.00   53.67
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    26.00    1.00  102.00     0.00    71.61  1424.00     3.30   33.70 2072.00   13.72   3.92  40.40
+
+06/16/2020 12:36:08 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.10    0.00    8.46   44.87    0.00   42.56
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     5.00    0.00  112.00     0.00    62.43  1141.64    15.32  139.06    0.00  139.06   3.36  37.60
+
+06/16/2020 12:36:09 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.80    0.00    4.88   39.07    0.00   54.24
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     3.00    0.00   89.00     0.00    77.15  1775.28    16.19  184.24    0.00  184.24   3.96  35.20
+
+06/16/2020 12:36:10 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.76    0.00    9.57   36.52    0.00   52.14
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    13.00    1.00  126.00     0.00    75.69  1220.60    17.84  142.42  132.00  142.50   3.69  46.80
+
+06/16/2020 12:36:11 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.77    0.00    5.28   30.90    0.00   60.05
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  101.00     0.00    84.79  1719.29     8.88   90.14    0.00   90.14   4.08  41.20
+
+06/16/2020 12:36:12 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.02    0.00    3.02   37.53    0.00   56.42
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00   84.00     0.00    78.52  1914.29     0.78   11.82    0.00   11.82   4.14  34.80
+
+06/16/2020 12:36:13 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.52    0.00    9.87   47.85    0.00   40.76
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00   189.00    1.00  100.00     0.00    55.13  1118.02     9.97  100.59 2057.00   81.03   3.52  35.60
+
+06/16/2020 12:36:14 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.76    0.00    3.53   37.78    0.00   56.93
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    0.00  138.00     0.00    83.29  1236.00     5.36   40.92    0.00   40.92   3.80  52.40
+
+06/16/2020 12:36:15 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.86    0.00    8.85   37.76    0.00   50.52
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.98    0.99   96.04     0.00    75.27  1588.82    11.78  123.43 1161.00  112.73   4.04  39.21
+
+06/16/2020 12:36:16 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.83    0.00    7.65   39.29    0.00   49.23
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    0.00   80.00     0.00    74.27  1901.20    16.68  210.35    0.00  210.35   4.10  32.80
+
+06/16/2020 12:36:17 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.80    0.00    5.15   44.59    0.00   48.45
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     9.00    0.00  102.00     0.00    74.39  1493.73    16.44  163.24    0.00  163.24   4.08  41.60
+
+06/16/2020 12:36:18 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.52    0.00   10.05   43.72    0.00   42.71
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    26.00    1.00  103.00     0.00    55.26  1088.23    15.92  155.02  211.00  154.48   3.81  39.60
+
+06/16/2020 12:36:19 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.09    0.00    2.88   34.29    0.00   60.73
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00  113.00     0.00    76.02  1377.77    17.15  153.63    0.00  153.63   4.07  46.00
+
+06/16/2020 12:36:20 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.59    0.00    7.25   40.16    0.00   50.00
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  147.00     0.00    73.06  1017.85    16.06  111.27    0.00  111.27   4.08  60.00
+
+06/16/2020 12:36:21 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.78    0.00    9.90   31.47    0.00   56.85
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    73.00    1.00  118.00     0.00    69.51  1196.30    16.49  140.76  193.00  140.32   3.50  41.60
+
+06/16/2020 12:36:22 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.79    0.00    9.95   35.20    0.00   53.06
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     8.00    0.00   95.00     0.00    70.69  1523.87    17.00  180.82    0.00  180.82   3.83  36.40
+
+06/16/2020 12:36:23 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.91    0.00   11.79   43.24    0.00   40.05
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00    14.00    1.00   81.00     0.00    60.68  1515.51    17.17  211.26  262.00  210.63   4.05  33.20
+
+06/16/2020 12:36:24 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.81    0.00    2.84   50.65    0.00   44.70
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     2.00    0.00  101.00     0.00    68.74  1393.90    17.66  176.63    0.00  176.63   3.64  36.80
+
+06/16/2020 12:36:25 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.33    0.00    3.63   44.82    0.00   49.22
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00  155.00     0.00    73.56   971.92    16.64  109.17    0.00  109.17   3.95  61.20
+
+06/16/2020 12:36:26 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.51    0.00   10.05   49.25    0.00   38.19
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    1.00  105.00     0.00    73.02  1410.87     3.91   38.65  577.00   33.52   3.92  41.60
+
+06/16/2020 12:36:27 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.02    0.00    9.69   55.87    0.00   33.42
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3             59.00   235.00    7.00  164.00     0.24    61.55   740.12     4.88   30.06  259.57   20.26   2.41  41.20
+
+06/16/2020 12:36:28 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.03    0.00    4.91   48.32    0.00   45.74
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     7.00    3.00   92.00     0.13    56.11  1212.38     3.72   41.00  855.33   14.45   4.17  39.60
+
+06/16/2020 12:36:29 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00    3.05   43.26    0.00   51.65
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     1.00    0.00   80.00     0.00    69.95  1790.70     6.93   88.65    0.00   88.65   3.85  30.80
+
+06/16/2020 12:36:30 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.50    0.00    4.51   58.15    0.00   35.84
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    0.00   97.00     0.00    76.63  1617.90     0.80   10.19    0.00   10.19   4.16  40.40
+
+06/16/2020 12:36:31 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.28    0.00   12.37   59.85    0.00   24.49
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3             31.00    47.00    3.00   97.00     0.01    70.88  1451.84     3.84   40.23  990.67   10.84   3.80  38.00
+
+06/16/2020 12:36:32 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.03    0.00    8.46   79.23    0.00   11.28
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     3.00    4.00  100.00     0.12    73.11  1442.23     5.49   54.67 1162.50   10.36   3.88  40.40
+
+06/16/2020 12:36:33 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.78    0.00   10.63   57.72    0.00   28.86
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3             54.00    60.00   25.00   68.00     0.84    49.13  1100.47    12.07  131.76  440.80   18.15   3.10  28.80
+
+06/16/2020 12:36:34 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.03    0.00    7.61   51.27    0.00   39.09
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3             31.00     1.00   11.00  150.00     0.16    79.00  1007.06     4.28   29.10  219.18   15.16   3.53  56.80
+
+06/16/2020 12:36:35 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.83    0.00    7.97   37.79    0.00   51.41
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     4.00   10.00  119.00     0.25    75.87  1208.43     5.10   41.43  351.40   15.39   3.94  50.80
+
+06/16/2020 12:36:36 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.06    0.00    2.91   58.99    0.00   37.04
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     0.00    5.00  139.00     0.22    75.01  1069.94     3.63   27.61  597.80    7.10   3.92  56.40
+
+06/16/2020 12:36:37 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.09    0.00    4.45   67.02    0.00   26.44
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3             62.00     7.00   16.00   55.00     0.91    47.03  1382.76     9.05  129.48  287.56   83.49   4.11  29.20
+
+06/16/2020 12:36:38 PM
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.74    0.00    8.23   46.88    0.00   41.15
+
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sda3              0.00     8.00   11.00   99.00     0.38    68.32  1278.91     4.87   46.18  308.00   17.09   3.89  42.80
+
